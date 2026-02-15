@@ -8,8 +8,8 @@ This project is a Kanban-style Task Management Application built using React (Vi
 
 ## 🚀 Live Demo
 
-Deployed Link:  
-GitHub Repository:
+Deployed Link:https://task-board-app-neon.vercel.app/
+GitHub Repository:https://github.com/surajingle07/task-board-app.git
 
 
 ---
